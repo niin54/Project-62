@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: Arial,sans-serif;
+}
+#One {
+    z-index: 9;
+}
+ul {
+    z-index 10;
+}
+img {
+    width: 500px;
+    height: 400px;
+}
